@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707963487421",
+    "project_id": "tmanagerci",
+    "storage_bucket": "tmanagerci.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707963487421:android:336e061404501af747a3d4",
+        "android_client_info": {
+          "package_name": "br.com.okayama.tmanagerci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707963487421-0eamm8grdckrpdgip22e7d2gegt716ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOLtkQezZp248ZAY_rHkcZe1Upx7GnYEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707963487421-0eamm8grdckrpdgip22e7d2gegt716ck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
